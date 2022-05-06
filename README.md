@@ -1,6 +1,14 @@
-# Hi, I'm Richard - Welcome to my GitHub!
+<!-- # Hi, I'm Richard - Welcome to my GitHub! -->
 
-## I am a budding Developer looking to make the career change into Tech!
+<div id=""align="center">
+    <img src="img/ReadmeHeader.png"/>
+</div>
+
+---
+
+# Hello, and welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Richard Van Nairn and I am a budding Developer looking to make the career change into Tech! I'm from the UK and I live in London.
 
 - 🔭 I'm curently improving my React and Express skills, Check out my : [Monday Clone](https://github.com/RvN-R/monday-clone) !
 - 🥅 2022 Goals: Secure my first Tech Role
@@ -9,7 +17,7 @@
 
 ---
 
-### 🛠️ : Languages and Tools :
+### 🛠️ Languages and Tools
 
 <div>
     <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
@@ -28,16 +36,13 @@
 
 ---
 
-### My GitHub Stats:
+### 📈 GitHub Stats
 
-<div id="stats" align="center" >
-    <img src="https://github-readme-stats.vercel.app/api?username=RvN-R&hide=contribs&show_icons=true"/>
-</div>
+<a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RvN-R&layout=compact&title_color=e87d16&bg_color=0e302b&hide_border=true&text_color=02d6aa"/>
+</a>
+<a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RvN-R&hide=contribs&show_icons=true&title_color=e87d16&bg_color=0e302b&hide_border=true&icon_color=02d6aa&text_color=02d6aa"/>
+</a>
 
 ---
-
-### My Top Languages
-
-<div id="languages" align="center" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RvN-R&layout=compact"/>
-</div>
