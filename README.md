@@ -8,6 +8,8 @@
 
 # Hello, and welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+![](https://komarev.com/ghpvc/?username=RvN-R&color=0e302b&bg&style=for-the-badge)
+
 My name is Richard Van Nairn and I am a budding Developer looking to make the career change into Tech! I'm from the UK and I live in London.
 
 - 🔭 I'm curently improving my React and Express skills, Check out my : [Monday Clone](https://github.com/RvN-R/monday-clone) !
