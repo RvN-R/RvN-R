@@ -12,7 +12,8 @@
 
 My name is Richard Van Nairn and I am a budding Developer looking to make the career change into Tech! I'm from the UK and I live in London.
 
-- 🔭 I'm curently improving my React and Express skills, Check out my : [Monday Clone](https://github.com/RvN-R/monday-clone) !
+- 🔭 I'm curently working on a project using the MERN stack (Mongo DB, Express, React and Node) called Sound As A Pound, Check out the project in developement : [Sound As A Pound]([https://github.com/RvN-R/monday-clone](https://github.com/RvN-R/sound-as-a-pound)) !
+- 🔭 Check out the Weather App that I've just finished and in the process improved my understanding of React
 - 🥅 2022 Goals: Secure my first Tech Role
 - ⚡ Fun fact: I love to make my own electronic music, cycle and I am training for my first Half Marathon
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/richard-van-nairn-2277a7b9/)
